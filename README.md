@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego Castillo</h1>
 <h3 align="center">Desarrollador Full Stack y apasionado por la tecnología</h3>
-<h4 aling= "center><p>Hola soy Diego , Full Stack Developer, me dedico a aportar soluciones funcionales y dirigidas a obtener los mejores resultados.
-
+<h4 aling= "center>Hola soy Diego , Full Stack Developer, me dedico a aportar soluciones funcionales y dirigidas a obtener los mejores resultados.
 Cuando comencé a interesarme por el desarrollo web, he estado en constante capacitación para ir mejorando mis habilidades blandas como tecnológicas. 
-
 Mi convicción es seguir capacitándome continuamente para siempre para poder aportar soluciones nuevas y acordes a los avances tecnológicos.
+Espero poder aportar soluciones a tus proyectos.</h4>
 
-Espero poder aportar soluciones a tus proyectos.</p></h4>
-</br>
+  </br>
 
 - 🔭 Proyecto realizado en Henry Boocamp [Pokemon](https://github.com/Dac1977/Pi-Pokemon-henry)
 
