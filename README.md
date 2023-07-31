@@ -6,7 +6,6 @@ Cuando comencé a interesarme por el desarrollo web, he estado en constante capa
 Mi convicción es seguir capacitándome continuamente para siempre para poder aportar soluciones nuevas y acordes a los avances tecnológicos.
 Espero poder aportar soluciones a tus proyectos.</p>
 
-  </br>
 
 - 🔭 Proyecto realizado en Henry Boocamp [Pokemon](https://github.com/Dac1977/Pi-Pokemon-henry)
 
