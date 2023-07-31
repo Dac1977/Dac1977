@@ -5,7 +5,7 @@
 
 - 👯 Proyecto Final Henry [Gymgo](https://gym-go-five.vercel.app/)
 
-  <p aling= "center>Hola soy Diego , Full Stack Developer, me dedico a aportar soluciones funcionales y dirigidas a obtener los mejores resultados.
+<p aling= "center>Hola soy Diego , Full Stack Developer, me dedico a aportar soluciones funcionales y dirigidas a obtener los mejores resultados.
 Cuando comencé a interesarme por el desarrollo web, he estado en constante capacitación para ir mejorando mis habilidades blandas como tecnológicas. 
 Mi convicción es seguir capacitándome continuamente para siempre para poder aportar soluciones nuevas y acordes a los avances tecnológicos.
 Espero poder aportar soluciones a tus proyectos.</p>
